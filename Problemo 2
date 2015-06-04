@@ -12,7 +12,7 @@ int main()
   int k = 0; 
   int sum = 0; 
 
-  cout << "Tiu ĉi estas la serio de Fibonacci, ekde 1 ĝis kvar milionoj: "  << endl; 
+  cout << "Tiu ĉi estas la sumo de paraj nombroj en la serio de Fibonacci, ekde 1 ĝis kvar milionoj: "  << endl; 
 
   while (k < 4000000) {
     k = i + j; 
